@@ -5,7 +5,7 @@
 - 🔭 I’m currently building personal projects and contributing to Open source.
 - 🌱 I’m currently learning DevOps
 
-You can checkout my profile at: [http://vishavs.live](http://vishavs.live)
+You can checkout my porfolio at: [http://vishavs.live](http://vishavs.live)
 
 Projects Showcase:
 
