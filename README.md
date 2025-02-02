@@ -1,6 +1,6 @@
 ### Hi there 👋 I am Vishav Singla
 
-- Software Engineering Intern @Wayfair
+- Software Engineering Intern @[Wayfair](https://github.com/wayfair)
 - GSoC'24 Google Summer of Code contributor for [Social Street Smart](https://github.com/AOSSIE-Org/Social-Street-Smart) @[AOSSIE](https://github.com/AOSSIE-Org)
 - Ex Backend Intern @[Globe Teleservices](https://globeteleservices.com)
 - 🔭 I’m currently building personal projects and contributing to Open source.
